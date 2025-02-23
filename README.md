@@ -44,7 +44,7 @@ Customize Sassify by creating a configuration file in your project root (sassify
   "multiple_files": true,
   "output_dir": ".",
   "main_file": "main.scss",
-  "iput_dir": "./sass/"
+  "iput_dir": ["./sass/"]
 }
 ```
 
