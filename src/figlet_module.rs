@@ -19,7 +19,7 @@ impl FigletModule {
         let output = Command::new(figlet_path)
             .arg("-f")
             .arg(&self.font)
-            .arg(text) // Usamos `text` aquí
+            .arg(text)
             .output()
             .expect("Failed to execute figlet command");
 
