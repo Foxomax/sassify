@@ -47,3 +47,8 @@ Customize Sassify by creating a configuration file in your project root (sassify
   "iput_dir": "./sass/"
 }
 ```
+
+## Credits
+
+Sassify uses [Figlet](https://www.figlet.org/) to generate eye-catching ASCII art in the terminal, adding a unique visual touch to the tool. We would like to thank the developers of Figlet for their incredible open-source contribution.
+
